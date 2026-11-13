@@ -1,0 +1,24 @@
+{
+  "_about": "Copy to ai_limits_settings.json (next to the script) and change what you need. Every key is optional; these are the defaults. Paths may use forward slashes, %VARIABLES% and ~. Any key can also be set with an environment variable AI_LIMITS_<KEY>, e.g. AI_LIMITS_SERVICES=Claude,Codex.",
+  "data_dir": "%LOCALAPPDATA%/ai-limits-monitor",
+  "avatar_dir": "",
+  "services": [
+    "Claude",
+    "Codex",
+    "Gemini",
+    "DeepSeek",
+    "Grok"
+  ],
+  "time_zone": "local",
+  "time_zone_label": "",
+  "background": "wallpaper",
+  "refresh_minutes": 5,
+  "alert_levels": [
+    80,
+    95
+  ],
+  "kimi_credentials": "",
+  "gemini_badge": "",
+  "gemini_notes": [],
+  "demo": false
+}

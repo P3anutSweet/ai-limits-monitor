@@ -1,0 +1,11 @@
+# your own settings (never commit them)
+ai_limits_settings.json
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+latest.json
+monitor_state.json
