@@ -2,7 +2,7 @@
 
 A small always-on-top glass panel for Windows that shows how much of your AI subscriptions you have used: **Claude** (Claude Code / claude.ai plan) and **Codex** (ChatGPT plan) usage limits, **Gemini** usage windows from Antigravity, a **DeepSeek** account balance, and sign-in status cards for **Grok, Kimi, Qwen, Doubao, GLM and MiniMax**.
 
-This repository is the **desktop edition** (a floating pane on the Windows desktop). A separate edition that runs inside T3 Code is planned. It will live in its own repository, and this README will link to it once it is published.
+This repository is the **desktop edition** (a floating pane on the Windows desktop). The **T3 edition**, a live page for the right-panel Preview tab of T3 Code, is a separate project: [ai-limits-monitor-t3](https://github.com/P3anutSweet/ai-limits-monitor-t3). Both editions share the same usage readers and mascots.
 
 | Compact | Full |
 |---|---|
